@@ -8,7 +8,7 @@ Notice: the 3Dmigoto-Knife inside this project is forked and modified from origi
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/4224c3cf-413d-4666-a53b-6d6103468f60)
 
 # Features
-- Supported game list: GI, HI3, HSR, ZZZ, NBP
+- Supported game list: GI, HI3, HSR, ZZZ, NBP, DSP, KALABIYAU
 - Auto FrameAnalysis Folder clean.
 - Auto run 3dmigoto and run game.
 - Multiple game's unified 3dmigoto folder management.
