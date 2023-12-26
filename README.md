@@ -3,7 +3,8 @@ Manage multiple game's 3dmigoto and increase mod author's effeciency.
 
 It's a very simple tool but solved my problem for using 3dmigoto on multiple game but very cumbersome to maintain their file and icons, now we have a unified way.
 
-Notice: the 3Dmigoto-Knife inside this project is forked and modified from original 3Dmigoto's injector but add some extra features, the 3Dmigoto-Armor version of d3d11.dll is forked and modified from original 3Dmigoto repository and can be found at here: https://github.com/StarBobis/3Dmigoto-Armor-23-12-24-fork It's a modified version for game mod and it's open source instead of GIMI's d3d11.dll is a closed source version, but two of them have nearly same functions.
+Notice: the 3Dmigoto-Knife inside this project is forked and modified from original 3Dmigoto's injector but add some extra features, the 3Dmigoto-Armor version of d3d11.dll is forked and modified from original 3Dmigoto repository and can be found at here: https://github.com/StarBobis/3Dmigoto-Armor-23-12-24-fork 
+It's a modified version for game mod and it's open source instead of GIMI's d3d11.dll is a closed source version, but two of them have nearly same functions.
 
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/4224c3cf-413d-4666-a53b-6d6103468f60)
 
