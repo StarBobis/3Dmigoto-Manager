@@ -9,7 +9,9 @@ It's a modified version for game mod and it's open source instead of GIMI's d3d1
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/4224c3cf-413d-4666-a53b-6d6103468f60)
 
 # Features
-- Supported game list: GI, HI3, HSR, ZZZ, NBP, DSP, KALABIYAU
+- Supported game list:GI, HI3, HSR, ZZZ, NBP, DSP, KALABIYAU, YSLZM
+Special type: GIMI_DEV,GIMI_PLAY,SRMI_DEV,SRMI_PLAY 
+These loader is copied from GIMI and SRMI's release because so many people are using them so this software will support them specially.
 - Auto FrameAnalysis Folder clean.
 - Auto run 3dmigoto and run game.
 - Multiple game's unified 3dmigoto folder management.
