@@ -1,7 +1,8 @@
 # 3DmigotoManager
 Manage multiple game's 3dmigoto and increase mod author's effeciency.
 
-It's a very simple tool but solved my problem for using 3dmigoto on multiple game but very cumbersome to maintain their file and icons, now we have a unified way.
+It's a very simple tool but solved my problem for using 3dmigoto on multiple game 
+but very cumbersome to maintain their file and icons, now we have a unified way.
 
 Notice: the 3Dmigoto-Knife inside this project is forked and modified from original 3Dmigoto's injector but add some extra features, the 3Dmigoto-Armor version of d3d11.dll is forked and modified from original 3Dmigoto repository and can be found at here: https://github.com/StarBobis/3Dmigoto-Armor-23-12-24-fork 
 It's a modified version for game mod and it's open source instead of GIMI's d3d11.dll is a closed source version, but two of them have nearly same functions.
@@ -11,7 +12,7 @@ It's a modified version for game mod and it's open source instead of GIMI's d3d1
 # Features
 - Supported game list:GI, HI3, HSR, ZZZ, NBP, DSP, KALABIYAU, YSLZM
 Special type: GIMI_DEV,GIMI_PLAY,SRMI_DEV,SRMI_PLAY 
-These loader is copied from GIMI and SRMI's release because so many people are using them so this software will support them specially.
+These Special type loader is copied from GIMI and SRMI's release because so many people are using them so this software will support them specially.
 - Auto FrameAnalysis Folder clean.
 - Auto run 3dmigoto and run game.
 - Multiple game's unified 3dmigoto folder management.
