@@ -1,3 +1,6 @@
+# Usage notice
+3DmigotoManager and all it's content is collected from internet and educational purpose only.
+
 # 3DmigotoManager
 Manage multiple game's 3dmigoto and increase mod author's effeciency.
 
