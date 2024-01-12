@@ -1,3 +1,6 @@
+# Open source is a kind of sin
+No one will thanks you for open source these scripts, they just use your scripts and at the same time verbally attacking you,when i open source reverse scripts seems everyone want to insult me to show their fake ethical, so my project will never be open source again, may be some compiled exe will be published here but never source code again.
+
 # Usage notice
 3DmigotoManager and all it's content is educational purpose only.
 
