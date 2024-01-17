@@ -20,7 +20,7 @@ but mod encryption version is private and due to encryption algorithm I can't sh
 
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/4224c3cf-413d-4666-a53b-6d6103468f60)
 # 3Dmigoto-Armor core features
-- Dynamic d3d11 desc's byte width increase changed with your mod's vertex number,which will save a lot of memory and avoid memory leak and avoid game crush,it's better than GIMI's d3d11.dll's solid d3d11 desc byte width increase number .
+- Dynamic d3d11 desc's byte width increase changed with your mod's vertex number,which will save a lot of memory and avoid memory leak and avoid game crush,it's better than GIMI's d3d11.dll's solid d3d11 desc byte width increase number in some special game like NBP.
 - Mod format encryption.
 
 # Features
