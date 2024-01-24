@@ -10,7 +10,7 @@ Manage multiple game's 3dmigoto and increase player and mod author's effeciency.
 - Multiple game's unified 3dmigoto management.
 - Auto FrameAnalysis Folder clean.
 - Auto run 3dmigoto and then run game.
-- Easily to open FrameAlalysis Folder, Mods folder, 3Dmigoto Loader folder.
+- Easily to open the FrameAlalysis Folder, Mods folder, 3Dmigoto Loader folder, target program's folder.
 
 # 3Dmigoto-Armor's core features
 - Dynamic d3d11 desc's byte width increase changed with your mod's vertex number,which will save a lot of memory and avoid memory leak and avoid game crush,it's works better and more stable than GIMI's d3d11.dll's solid d3d11 desc byte width increase number in some special game like NBP.
