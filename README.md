@@ -6,8 +6,6 @@ now the open source version of Armor is enough for educational purporse so I arc
 
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/c6727f63-f81d-4014-9a2a-15e8e240d13c)
 
-![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/c573fc67-d78a-44b8-a534-984255e38f5f)
-
 # Usage notice
 3DmigotoManager and all it's content is educational purpose only, please avoid abuse.
 
