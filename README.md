@@ -18,6 +18,7 @@ Manage multiple game's 3dmigoto and increase player and mod author's effeciency.
 
 # How to improve this project?
 - Open an issue to send feedback and advice.
+- Send Pull requests for add something like tutorials docs, translates docs, etc...
 - Join 3MA server to send me feedback directly:https://discord.gg/JEcWVKr7wu
 
 # Thanks for 3Dmigoto
