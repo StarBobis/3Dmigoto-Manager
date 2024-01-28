@@ -1,4 +1,4 @@
-# NMBT-Manager
+# Manager
 Manage multiple game's 3dmigoto and increase player and mod author's effeciency.
 
 ![image](https://github.com/StarBobis/3DmigotoManager/assets/151726114/c6727f63-f81d-4014-9a2a-15e8e240d13c)
