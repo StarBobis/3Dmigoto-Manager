@@ -1,6 +1,3 @@
-# Archive
-This project is Archived and turn to Private due to CN community abuse, some people just don't deserve it.
-
 # Manager
 Manage multiple game's 3dmigoto and increase player and mod author's effeciency.
 
