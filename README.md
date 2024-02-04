@@ -23,5 +23,3 @@ NMBT-Manager and all it's content is educational purpose only, please avoid abus
 
 # Thanks for 3Dmigoto
 Without their original 3dmigoto repo the game mod version will be impossible. Huge thanks to Chiri,DarkStarSword,bo3b and 3Dmigoto original author group.
-
-Special thanks for GIMI's developer: SilentNightSound
