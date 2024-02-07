@@ -1,3 +1,5 @@
+由于部分原因，3Dmigoto Manager不能再公开分享。
+
 # Manager
 Manage multiple game's 3dmigoto and increase player and mod author's effeciency.
 
